@@ -10,8 +10,11 @@
   "author": "dinonull",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
-    "commander": "^9.4.0",
-    "luaparse": "^0.3.1"
+    "luaparse": "^0.3.1",
+    "yargs": "^17.5.1"
+  },
+  "bin": {
+    "ib2-deobfuscate": "bin/cli"
   },
   "repository": {
     "type": "git",

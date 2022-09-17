@@ -1,5 +1,5 @@
 # ib2-deobfuscate
-Deobfuscate Ironbrew 2, Aztupbrew and CLVBrew.
+Deobfuscate Ironbrew 2, Aztupbrew, CLVBrew, and more.
 
 ## Installing
 ```bash
